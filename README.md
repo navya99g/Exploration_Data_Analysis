@@ -13,8 +13,8 @@ This project explores the **World Happiness Report 2019** to identify factors af
 - Countries in **North America, Australia, and Europe** score higher in happiness compared to **Asia and Africa**.  
 - Visualizations include **happiness distribution, GDP correlation, and global happiness maps**.  
 
-🔗 **[Full Analysis](https://github.com/your-repo/World-Happiness-EDA)**  
-
+**[World Happiness Analysis](https://github.com/navya99g/Exploration_Data_Analysis/tree/main/World_Happiness_EDA)**  
+  
 ---
 
 ### 2️⃣ **Hotel Booking Analysis (EDA) 🏨📊**  
@@ -25,7 +25,7 @@ This project examines **hotel booking data** to analyze booking trends, customer
 - **Families with children** prefer Resort Hotels.  
 - **Peak booking months** occur in **July and August**.  
 
-🔗 **[Full Analysis](https://github.com/your-repo/Hotel-Booking-EDA)**  
+🔗 **[Hotel Booking Analysis](https://github.com/navya99g/Exploration_Data_Analysis/tree/main/Hotel_Booking_EDA)**  
 
 ---
 
@@ -38,7 +38,7 @@ This project explores survival patterns in the **Titanic dataset**, analyzing ho
 - **Children (0-12 years)** had better survival rates than adults.  
 - **Passengers who paid higher fares** were more likely to survive.  
 
-🔗 **[Full Analysis](https://github.com/your-repo/Titanic-EDA)**  
+🔗 **[Titanic Survival Analysis](https://github.com/navya99g/Exploration_Data_Analysis/tree/main/Titanic_EDA)**  
 
 ---
 
