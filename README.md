@@ -49,7 +49,7 @@ This project explores survival patterns in the **Titanic dataset**, analyzing ho
 
 ## Next Steps 📈  
 - Expand **trend analysis** across multiple datasets.  
-- Implement **predictive modeling** in separate repositories.  
+- Implement **predictive modeling** in another repository [(Predictive Analysis )](https://github.com/navya99g/Predictive_Analysis_Models/tree/main).  
 - Conduct **hypothesis testing** to validate insights.  
 
 ## Acknowledgments  
